@@ -116,7 +116,8 @@ python study_tracker.py
 
 ### Statistics
 
-(Add screenshot here)
+<img width="552" height="428" alt="image" src="https://github.com/user-attachments/assets/1521f347-e714-4602-9a36-05bf512b4b08" />
+
 
 ### Weekly Report
 
