@@ -111,8 +111,9 @@ python study_tracker.py
 ## 📸 Screenshots
 
 ### Main Menu
+<img width="793" height="397" alt="image" src="https://github.com/user-attachments/assets/fda407e4-ba6c-4cfc-9abf-0b066f57f7e4" />
 
-(Add screenshot here)
+
 
 ### Statistics
 
@@ -120,16 +121,19 @@ python study_tracker.py
 
 
 ### Weekly Report
+<img width="355" height="432" alt="image" src="https://github.com/user-attachments/assets/f027cd57-a3a0-4173-8166-e0ffcf4ddd53" />
 
-(Add screenshot here)
+
 
 ### Goal Progress
+<img width="425" height="393" alt="image" src="https://github.com/user-attachments/assets/88eb8d5e-0652-4262-a5f3-6de01e573dbc" />
 
-(Add screenshot here)
+
 
 ### Progress Chart
 
-(Add screenshot here)
+<img width="1002" height="712" alt="Screenshot 2026-06-05 001303" src="https://github.com/user-attachments/assets/c875a58a-7102-4864-901e-2629517e8a5b" />
+
 
 ---
 
@@ -161,4 +165,4 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Created as part of an MCA learning roadmap and Python portfolio development journey.
+Created as part of an skill learning roadmap and Python portfolio development journey.
